@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abbas</h1>
-<h3 align="center">ECPC Finalist | Specialist @Codeforces | CS Student</h3>
+<h3 align="center">ACPC Finalist | Specialist @Codeforces | CS Student</h3>
 
 ### About Me
 
